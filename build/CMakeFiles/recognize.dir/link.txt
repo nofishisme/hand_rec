@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/recognize.dir/cli/recognize.c.o -o recognize  -Wl,-rpath,/home/wyu/project/handwritereclib/rec/build:/home/wyu/project/handwritereclib/rec/onnxruntime-linux-x64-1.10.0/lib:/usr/local/lib libnum_recognizer.so -Wl,-rpath-link,/home/wyu/project/handwritereclib/rec/onnxruntime-linux-x64-1.10.0/lib:/usr/local/lib

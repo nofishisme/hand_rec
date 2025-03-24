@@ -1,0 +1,4 @@
+/home/wyu/project/handwritereclib/rec/build/CMakeFiles/num_recognizer.dir
+/home/wyu/project/handwritereclib/rec/build/CMakeFiles/recognize.dir
+/home/wyu/project/handwritereclib/rec/build/CMakeFiles/edit_cache.dir
+/home/wyu/project/handwritereclib/rec/build/CMakeFiles/rebuild_cache.dir
